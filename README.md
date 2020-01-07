@@ -9,5 +9,7 @@ conda install numpy matplotlib keras tensorflow jupyter
 conda install -c conda-forge mnist
 ```
 
-#### Further instruction and comments inside the Jupyter Notebook 
-`main.py` by running `jupyter notebook`
+#### Further instruction and comments inside the Jupyter Notebook `main.py` by running 
+```
+jupyter notebook
+```
