@@ -5,5 +5,9 @@ The repository consists the program to classify the MNIST handwritten digit imag
 ```
 conda create -n handdigit python=3.7
 conda activate handdigit
-conda install numpy
+conda install numpy matplotlib keras tensorflow
+conda install -c conda-forge mnist
 ```
+
+#### Further instruction and comments inside the Jupyter Notebook 
+`main.py`
